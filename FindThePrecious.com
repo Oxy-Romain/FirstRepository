@@ -19,9 +19,9 @@
     <a href="https://placeholder.com"><img src= "https://via.placeholder.com/60" alt="menuburger"></a>
     <!-- The img will be th button of the menu -->
     <ul>
-      <li><a href="#NEWS" id=NEWS>NEWS</a></li>
-      <li><a href="#FELLOWS" id=FELLOWS>FELLOWS</a></li>
-      <li><a href="#CONTACTUS" id=CONTACTUS>CONTACT US</a></li>
+      <li><a href="#NEWS" id=NEWSTitle>NEWS</a></li>
+      <li><a href="#FELLOWS" id=FELLOWSTitle>FELLOWS</a></li>
+      <li><a href="#CONTACTUS" id=CONTACTUSTitle>CONTACT US</a></li>
     </ul>
   </nav>
   <main>
@@ -82,7 +82,7 @@
     </div>
     <div>
       <a href="http://sauron4Ever.com" id=SiteSauron>Sauron4Ever.com</a>
-      <a href="Folow_twitter" id=>Follow him also en twitter</a>  
+      <a href="Folow_twitter" id=TwitterSauron>Follow him also en twitter</a>  
     </div>
   </footer>
 </body>
