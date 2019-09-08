@@ -19,9 +19,9 @@
     <a href="https://placeholder.com"><img src= "https://via.placeholder.com/60" alt="menuburger"></a>
     <!-- The img will be th button of the menu -->
     <ul>
-      <li><a href="#NEWS">NEWS</a></li>
-      <li><a href="#FELLOWS">FELLOWS</a></li>
-      <li><a href="#CONTACT">CONTACT US</a></li>
+      <li><a href="#NEWS" id=NEWS>NEWS</a></li>
+      <li><a href="#FELLOWS" id=FELLOWS>FELLOWS</a></li>
+      <li><a href="#CONTACTUS" id=CONTACTUS>CONTACT US</a></li>
     </ul>
   </nav>
   <main>
@@ -39,7 +39,7 @@
     <h3 id="character2"> Fellow2</h3>
     <p><a href="https://placeholder.com"><img src= "https://via.placeholder.com/130" alt="Fellows2"></a>Pelientesque auctor nisi id magna consequat sagittis. Curabitur dapibus, enim sit amet elit pharetra tincidunt feugiat nist imperdiet. Ut convallis liberoin urna ultrices accumsan. Donec sed odio eros.</p>
 
-    <h2 id="CONTACT"><u>CONTACT US</u></h2>
+    <h2 id="CONTACTUS"><u>CONTACT US</u></h2>
 
     <form action="/ma-page-de-traitement" method="post">
       <div>
@@ -71,18 +71,18 @@
 
   <footer>
     <div>
-      <a href="About_us">About us</a>
-      <a href="Fellows">Fellows</a>
-      <a href="Join_our_army">Join our army</a>
+      <a href="About_us" id=AboutUs>About us</a>
+      <a href="Fellows" id=Fellows>Fellows</a>
+      <a href="Join_our_army" id=JoinOurArmy>Join our army</a>
     </div>
     <div>
-      <a href="FAQ">FAQ</a>
-      <a href="Reward_conditions">Reward conditions</a>
-      <a href="Legal_mentions">Legal mentions</a>
+      <a href="FAQ" id=FAQ>FAQ</a>
+      <a href="Reward_conditions" id=RewardConditions>Reward conditions</a>
+      <a href="Legal_mentions" id=LegalMentions>Legal mentions</a>
     </div>
     <div>
-      <a href="http://sauron4Ever.com">Sauron4Ever.com</a>
-      <a href="Folow_twitter">Follow him also en twitter</a>  
+      <a href="http://sauron4Ever.com" id=SiteSauron>Sauron4Ever.com</a>
+      <a href="Folow_twitter" id=>Follow him also en twitter</a>  
     </div>
   </footer>
 </body>
