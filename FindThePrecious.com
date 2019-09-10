@@ -19,9 +19,9 @@
     <a href="https://placeholder.com"><img src= "https://via.placeholder.com/60" alt="menuburger"></a>
     <!-- The img will be th button of the menu -->
     <ul>
-      <li><a href="#NEWS" title = news id=NEWSTitle>NEWS</a></li>
-      <li><a href="#FELLOWS" title = fellows id=FELLOWSTitle>FELLOWS</a></li>
-      <li><a href="#CONTACTUS" title = contact id=CONTACTUSTitle>CONTACT US</a></li>
+      <li><a href="#NEWS" title = "news" id="NEWSTitle">NEWS</a></li>
+      <li><a href="#FELLOWS" title = "fellows" id="FELLOWSTitle">FELLOWS</a></li>
+      <li><a href="#CONTACTUS" title = contact id="CONTACTUSTitle">CONTACT US</a></li>
     </ul>
   </nav>
   <main>
@@ -71,18 +71,18 @@
 
   <footer>
     <div>
-      <a href="About_us" title = Aboutus id=AboutUs>About us</a>
-      <a href="Fellows" id=Fellows>Fellows</a>
-      <a href="Join_our_army" title = joinArmy id=JoinOurArmy>Join our army</a>
+      <a href="About_us" title = "Aboutus" id="AboutUs">About us</a>
+      <a href="Fellows" title = "fell" id="Fellows">Fellows</a>
+      <a href="Join_our_army" title = "joinArmy" id="JoinOurArmy">Join our army</a>
     </div>
     <div>
-      <a href="FAQ" id=FAQ>FAQ</a>
-      <a href="Reward_conditions" title = Reward id=RewardConditions>Reward conditions</a>
-      <a href="Legal_mentions" title = LeagalMentionsid=LegalMentions>Legal mentions</a>
+      <a href="FAQ" title = "FAQ" id=FAQ>FAQ</a>
+      <a href="Reward_conditions" title = "Reward" id="RewardConditions">Reward conditions</a>
+      <a href="Legal_mentions" title = "LeagalMentions" id="LegalMentions">Legal mentions</a>
     </div>
     <div>
-      <a href="http://sauron4Ever.com" id=SiteSauron>Sauron4Ever.com</a>
-      <a href="Folow_twitter" id=TwitterSauron>Follow him also en twitter</a>  
+      <a href="http://sauron4Ever.com" title = "sitesauron" id="SiteSauron">Sauron4Ever.com</a>
+      <a href="Folow_twitter" title = "Twitter" id="TwitterSauron">Follow him also en twitter</a>  
     </div>
   </footer>
 </body>
