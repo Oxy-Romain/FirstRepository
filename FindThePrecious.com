@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="author" content="Barbara">
+  <meta name="author" content="Romain">
   <meta name="description" content="This page will be use by all the partisan of sauron to capture the fellows or to get some news of the Mordor.">
   <title>FindThePrecious.com</title>
   <link href="style.css" rel="stylesheet">
