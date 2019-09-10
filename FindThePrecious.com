@@ -19,9 +19,9 @@
     <a href="https://placeholder.com"><img src= "https://via.placeholder.com/60" alt="menuburger"></a>
     <!-- The img will be th button of the menu -->
     <ul>
-      <li><a href="#NEWS" id=NEWSTitle>NEWS</a></li>
-      <li><a href="#FELLOWS" id=FELLOWSTitle>FELLOWS</a></li>
-      <li><a href="#CONTACTUS" id=CONTACTUSTitle>CONTACT US</a></li>
+      <li><a href="#NEWS" title = news id=NEWSTitle>NEWS</a></li>
+      <li><a href="#FELLOWS" title = fellows id=FELLOWSTitle>FELLOWS</a></li>
+      <li><a href="#CONTACTUS" title = contact id=CONTACTUSTitle>CONTACT US</a></li>
     </ul>
   </nav>
   <main>
@@ -73,7 +73,7 @@
     <div>
       <a href="About_us" title = Aboutus id=AboutUs>About us</a>
       <a href="Fellows" id=Fellows>Fellows</a>
-      <a href="Join_our_army" title = Join Army id=JoinOurArmy>Join our army</a>
+      <a href="Join_our_army" title = joinArmy id=JoinOurArmy>Join our army</a>
     </div>
     <div>
       <a href="FAQ" id=FAQ>FAQ</a>
