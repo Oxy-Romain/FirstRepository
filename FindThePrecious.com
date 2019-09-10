@@ -71,14 +71,14 @@
 
   <footer>
     <div>
-      <a href="About_us" id=AboutUs>About us</a>
+      <a href="About_us" title = Aboutus id=AboutUs>About us</a>
       <a href="Fellows" id=Fellows>Fellows</a>
-      <a href="Join_our_army" id=JoinOurArmy>Join our army</a>
+      <a href="Join_our_army" title = Join Army id=JoinOurArmy>Join our army</a>
     </div>
     <div>
       <a href="FAQ" id=FAQ>FAQ</a>
-      <a href="Reward_conditions" id=RewardConditions>Reward conditions</a>
-      <a href="Legal_mentions" id=LegalMentions>Legal mentions</a>
+      <a href="Reward_conditions" title = Reward id=RewardConditions>Reward conditions</a>
+      <a href="Legal_mentions" title = LeagalMentionsid=LegalMentions>Legal mentions</a>
     </div>
     <div>
       <a href="http://sauron4Ever.com" id=SiteSauron>Sauron4Ever.com</a>
